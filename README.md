@@ -1,7 +1,7 @@
 ## 🌴💸Money don't grow on trees... but you can use trees to make money
 
 - ⭐️ I’m currently working on Weeklies, a peer-to-peer accountability app that helps users track and achieve their goals
-- 📈 I recently built a purely autocorrelation-based stock prediction pipline
+- 📈 I love working on difficult problems, so you'll often find me working on building trading strategies
 - 🧠 Feel free to reach out to collaberate or chat!
 
 
