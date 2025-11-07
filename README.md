@@ -1,7 +1,7 @@
 ## 🌴💸Money don't grow on trees... but you can use trees to make money
 
 - ⭐️ I’m currently working on Weeklies, a peer-to-peer accountability app that helps users track and achieve their goals
-- 📈 I also enjoy researching different algorithmic trading strategies, most recently statitsic arbitrage and momentum
+- 📈 I also enjoy building different algorithmic trading strategies, most recently statistical arbitrage and momentum
 - 🧠 Feel free to reach out to collaberate or chat!
 
 
